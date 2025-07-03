@@ -42,9 +42,13 @@ The service accepts a date string or UNIX timestamp and returns a JSON response 
 ## 📁 Project Structure
 
 timestamp-microservice/
+
 ├── index.js # Main API logic
+
 ├── package.json # Dependencies
+
 ├── README.md # Project overview
+
 
 
 
